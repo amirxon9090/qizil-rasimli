@@ -24,6 +24,7 @@ button{
 }
 span{
     font-size: 35px;
+    text-shadow: 4px 2px 8px white,3px 1px 7px black,3px 2px 7px red;
 }
 .footer{
     padding: 15px;
